@@ -5,7 +5,7 @@ Style-checks are done for each pull request and installing this code style confi
 
 1. Go to *Preferences* or press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd> (<kbd>Cmd</kbd> + <kbd>,</kbd> on macOS)
 2. Go to "Editor > Code Style"
-3. Click the gear (right of "Scheme: ...")
+3. Click the gear (right of "Scheme: ....")
 4. Click "Import Scheme >"
 5. Choose `IntelliJ IDEA code style XML`
 6. Select the file `config\IntelliJ Code Style.xml`
